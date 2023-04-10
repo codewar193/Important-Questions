@@ -3,7 +3,8 @@ Program to rearrange positive and negative numbers in an array by moving all   n
 •  Input: 1 -1 2 -2 3 -3
 •  Output: -1 -2 -3 1 2 3
 */
-
+// TC= O(n)
+// SC= O(1)
 
 #include <iostream>
 using namespace std;
