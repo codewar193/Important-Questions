@@ -1,3 +1,10 @@
+/*
+Program to rearrange positive and negative numbers in an array by moving all   negative numbers to the beginning and positive numbers to the end by   maintaining the order of appearance of elements in the array.
+•  Input: 1 -1 2 -2 3 -3
+•  Output: -1 -2 -3 1 2 3
+*/
+
+
 #include <iostream>
 using namespace std;
 
