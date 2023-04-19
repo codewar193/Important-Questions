@@ -6,7 +6,6 @@
 Input:  kiit university
 Output: KiiT UniversitY*/
 
-
 #include<stdio.h>
 #include<conio.h>
 #include <ctype.h>
