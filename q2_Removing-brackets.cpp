@@ -2,7 +2,6 @@
 But Jason wants to give simplified expressions by removing brackets from the expressions. Write an algorithm to help Jason simplify an expression by
 removing brackets
 Input:  x-(p+q)+(y-a)
-
 Output:  x-p-q+y-a
 */
 // Program to remove brackets from an algebraic string
