@@ -8,6 +8,7 @@ Output:  x-p-q+y-a
 
 #include<bits/stdc++.h>
 using namespace std;
+
 int remove_brackets(char ch)
 {
     if (ch == '(' || ch ==')')
