@@ -6,6 +6,7 @@ Output:  x-p-q+y-a
 */
 // Program to remove brackets from an algebraic string
 
+
 #include<bits/stdc++.h>
 using namespace std;
 
