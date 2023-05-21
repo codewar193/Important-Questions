@@ -4,8 +4,6 @@ Given n ropes of different lengths, connect them into a single rope with minimum
 For example,
 
 Input:  [5, 4, 2, 8]
-
- 
 Output: The minimum cost is 36
   
 [5, 4, 2, 8] –> First, connect ropes of lengths 4 and 2 that will cost 6.
