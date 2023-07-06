@@ -30,6 +30,34 @@ public:
     }
 };
 
+//method -2
+
+/*
+class Solution{
+public:
+    int totalJumps(int X, int Y, int N, int arr[]){
+        int count = 0;
+        
+        for(int i = 0; i < N; i++)
+        {
+            if(arr[i]<=X){
+               count++;
+            continue;
+           }
+                int diff = arr[i] - Y;
+                int jumps = diff / (X-Y);
+                count += jumps;
+                
+                if(diff % (Y - X) != 0)
+                    count++;
+            
+        }
+        
+        return count;
+    }
+};
+*/
+
 //{ Driver Code Starts.
 
 int main(){
