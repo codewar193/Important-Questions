@@ -12,7 +12,6 @@ public:
       swap(arr[eve],arr[i]);
        eve++;
      }  
-    
        
    }
    sort(arr+eve,arr+n);
