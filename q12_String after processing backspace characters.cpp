@@ -7,7 +7,6 @@ string newString(string S)
 {
 	deque<char> q;
 	for (int i = 0; i < S.length(); ++i) {
-
 		if (S[i] != '#')
 			q.push_back(S[i]);
 		else if (!q.empty())
