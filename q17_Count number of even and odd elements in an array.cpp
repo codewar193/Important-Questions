@@ -18,7 +18,6 @@ void CountingEvenOdd(int arr[], int arr_size)
 		else
 			even_count++;
 	}
-
 	cout << "Number of even elements = " << even_count
 		<< "\nNumber of odd elements = " << odd_count;
 }
